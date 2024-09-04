@@ -8,6 +8,7 @@ METHODS: <br/>
 •	By googling that message we will get a name <br/>
 •	Then we open the file, flag translator and run it on python and enter the name(harald blutooth) we got earlier  then the flag is displayed <br/>
 WHAT I LEARNT: <br/>
+•	Obex is protocol which is used for transferring data over bluetooth <br/>
 •	learned to identify and know the functions of  the network protocols used in the packets in wireshark <br/>
 •	analyzed network traffic for hidden information
 
